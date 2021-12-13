@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-image: url("color.jpg");
+    background-size: 100%;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+
+h1 {
+    margin-top: 8rem;
+    color: rgb(242, 243, 250);
+}
+
+input {
+    display: block;
+    margin-left: 40%;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+button {
+    font-size: large;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    background-color: transparent;
+    border-color: brown;
+    background-color: #fff;
+}
